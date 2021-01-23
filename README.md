@@ -26,8 +26,6 @@ interests = [
 ]
 ```
 
-## Tools
-https://pistatium.github.io/
 
 ## Blog
 https://kimihiro-n.appspot.com/
@@ -39,8 +37,13 @@ https://kimihiro-n.appspot.com/
 * [Immutable Python ~ NamedTuple で書く副作用のないプログラム](https://tech.jxpress.net/entry/2019/12/23/072137)
 * [Scala で書いたマイクロサービスを Go で書き直した話](https://tech.jxpress.net/entry/2019/12/02/071352)
 
+
+## Online Tools
+https://pistatium.github.io/
+
+## Apps
+* [魔法陣が作れる！Mahougen - Android](https://play.google.com/store/apps/details?id=com.appspot.pistatium.mahougen&hl=ja&gl=US)
+* [明日から本気出すタスク管理 - Android](https://play.google.com/store/apps/details?id=com.appspot.pistatium.tomorrow&hl=ja&gl=US)
+
 ## Slides
 <a href="https://speakerdeck.com/pistatium/sutukirifen-karu-python-falserogu"><img src="https://github.com/pistatium/about_python_logging/blob/master/etc/slide_thumb.png?raw=true" width=300></a>
-
-
-
