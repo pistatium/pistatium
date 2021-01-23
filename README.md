@@ -37,7 +37,7 @@ https://kimihiro-n.appspot.com/
 * [Python boto3 でAWSを自在に操ろう ~ 入門編](https://qiita.com/kimihiro_n/items/f3ce86472152b2676004)
 * [App Engine を布教したくて Go + Datastore の開発環境を Docker Compose でシュッと立ち上げた話](https://qiita.com/kimihiro_n/items/5d373440acc48488a837)
 * [Immutable Python ~ NamedTuple で書く副作用のないプログラム](https://tech.jxpress.net/entry/2019/12/23/072137)
-* [https://tech.jxpress.net/entry/2019/12/02/071352](https://tech.jxpress.net/entry/2019/12/02/071352)
+* [Scala で書いたマイクロサービスを Go で書き直した話](https://tech.jxpress.net/entry/2019/12/02/071352)
 
 ## Slides
 <a href="https://speakerdeck.com/pistatium/sutukirifen-karu-python-falserogu"><img src="https://github.com/pistatium/about_python_logging/blob/master/etc/slide_thumb.png?raw=true" width=300></a>
