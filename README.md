@@ -36,7 +36,7 @@ https://kimihiro-n.appspot.com/
 * [App Engine を布教したくて Go + Datastore の開発環境を Docker Compose でシュッと立ち上げた話](https://qiita.com/kimihiro_n/items/5d373440acc48488a837)
 * [Immutable Python ~ NamedTuple で書く副作用のないプログラム](https://tech.jxpress.net/entry/2019/12/23/072137)
 * [Scala で書いたマイクロサービスを Go で書き直した話](https://tech.jxpress.net/entry/2019/12/02/071352)
-
+* [CloudRun + Go + Next.js で画像閲覧に特化した Twitter クライアントを作ったはなし](https://zenn.dev/kimihiro_n/articles/06bd36a592a942)
 
 ## Online Tools
 https://pistatium.github.io/
