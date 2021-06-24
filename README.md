@@ -47,4 +47,7 @@ https://pistatium.github.io/
 * [イラスト巡回に特化した Twitter 閲覧アプリ emiru - Android](https://play.google.com/store/apps/details?id=dev.pistatium.emiru.twa&hl=ja)
 
 ## Slides
+<a href="https://speakerdeck.com/pistatium/xin-siimenbani-make-debut-sitemoraiyasukusurutamefalsekai-fa-ti-zhi-with-python"><img src="https://user-images.githubusercontent.com/394378/123252263-0dfc2000-d527-11eb-8eb4-3c6fd3d099ba.png" width=300></a>
+
 <a href="https://speakerdeck.com/pistatium/sutukirifen-karu-python-falserogu"><img src="https://github.com/pistatium/about_python_logging/blob/master/etc/slide_thumb.png?raw=true" width=300></a>
+
