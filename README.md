@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/pistatium/pistatium/master/IMG_20200815_111120.jpg">
-
 ## about_me.toml
 
 ```toml
