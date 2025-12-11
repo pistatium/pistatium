@@ -25,9 +25,6 @@ interests = [
 ```
 
 
-## Blog
-https://kimihiro-n.appspot.com/
-
 ## Posts 
 * [Django REST Frameworkを使って爆速でAPIを実装する](https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8)
 * [Python boto3 でAWSを自在に操ろう ~ 入門編](https://qiita.com/kimihiro_n/items/f3ce86472152b2676004)
@@ -39,7 +36,7 @@ https://kimihiro-n.appspot.com/
 ## Online Tools
 https://pistatium.github.io/
 
-## Apps
+## Apps(discontinued)
 * [魔法陣が作れる！Mahougen - Android](https://play.google.com/store/apps/details?id=com.appspot.pistatium.mahougen&hl=ja)
 * [明日から本気出すタスク管理 - Android](https://play.google.com/store/apps/details?id=com.appspot.pistatium.tomorrow&hl=ja)
 * [イラスト巡回に特化した Twitter 閲覧アプリ emiru - Android](https://play.google.com/store/apps/details?id=dev.pistatium.emiru.twa&hl=ja)
