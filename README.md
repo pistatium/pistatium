@@ -4,17 +4,15 @@
 [personal]
 name = 'kimihiro_n'
 city = 'Tokyo, Japan'
-twitter = '@kimihiro_n'
 
 [bio]
 categories = [
   'server-side engineer',
-  'android application developer',
 ]
 
 programming-languages = [
-  'python',
   'go',
+  'python',
 ]
 
 interests = [
